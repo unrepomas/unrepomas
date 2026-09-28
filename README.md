@@ -2,10 +2,11 @@
 
 ```
 void@unrepomas:~$ git add .
-void@unrepomas:~$ git commit -m "Ready for Disaster"
 ```
 
-### Rookie Programmer
+```
+void@unrepomas:~$ git commit -m "Ready for Disaster"
+```
 
 
 <!--
