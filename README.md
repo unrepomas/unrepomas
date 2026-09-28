@@ -1,6 +1,6 @@
 ## < void >
 
-```
+<!--
 void@unrepomas:~$ whoami
 void - rookie programmer
 
@@ -10,4 +10,5 @@ void@unrepomas:~$ ls projects
 
 void@unrepomas:~$ ls contact
 unrepomas@gmail.com
-```
+
+-->
