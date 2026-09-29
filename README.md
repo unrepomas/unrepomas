@@ -1,23 +1,9 @@
-# a n d r e s
+# A n d r e s   V e c
 
 ```
-void@unrepomas:~$ git add .
+andres@unrepomas:~$ git add .
 ```
 
 ```
-void@unrepomas:~$ git commit -m "Ready for Disaster"
+andres@unrepomas:~$ git commit -m "Ready for Disaster"
 ```
-
-
-<!--
-void@unrepomas:~$ whoami
-void - rookie programmer
-
-void@unrepomas:~$ ls projects
-[lang_c.md](https://github.com/unrepomas/learnings/lang_c.md)
-[sqlite.md](https://github.com/unrepomas/learnings/sqlite.md)
-
-void@unrepomas:~$ ls contact
-unrepomas@gmail.com
-
--->
